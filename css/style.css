@@ -1,0 +1,115 @@
+a {
+    
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h1, h4 , h5, p {
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+}
+
+header {
+    background-color: sandybrown;
+    margin: 5px;
+    border: 1px solid grey;
+    height: 30px;
+}
+
+#seccionPrincipal {
+    margin: 5px;
+    border: 2px solid grey;
+    height: 400px;
+    display: flex;
+}
+.cajaP1 img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 550px;
+    height: 150px;
+}
+.cajaP1 {
+    width: 80%;
+    border: 1px solid brown;
+    background-color: skyblue;
+}
+.cajaP2 {
+    width: 20%;
+    border: 1px solid brown;
+    background-color: orchid;
+}
+
+#seccionSecundaria {
+    display:flex;
+    margin: 5px;
+    border: 2px solid grey;
+    height: 280px;
+    
+}
+
+#cajaS{
+    background-color: greenyellow;
+    width: 5%;
+    border: 1px solid brown;
+    text-align: center;
+}
+
+.caja {
+    background-color: palegreen;
+    width: 13.5%;
+    border: 1px solid brown;
+}
+
+.caja img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 150px;
+    height: 100px;
+    border: 5px solid white;
+}
+
+footer{
+    background-color: pink;
+    height: 100px;
+}
+
+#acercaParte1 {
+    background-color: lightcoral;
+    height: 80px;
+    border: 2px solid grey;
+}
+
+#acercaParte1 h1{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+}
+
+#acercaParte2 {
+    display: flex;
+    background-color: lightseagreen;
+    border: 2px solid grey;
+    height: 280px;
+}
+
+.cajaA {
+    border: 1px solid brown;
+    width: 20%;
+}
+
+.cajaA img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 230px;
+    height: 200px;
+}
+.cajaB {
+    border: 1px solid brown;
+    width: 60%;
+}
+.cajaB p{
+    text-align: center;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
